@@ -12,34 +12,34 @@ export default function Home() {
 
       <main>
         <Header title="Don't click on that link!" />
-        <p>Stop and think<br>
+        <p className="description">Stop and think<br>
 		Before you click that link</p>
 		
-		<p>Avoid the distress from unlawful egress<br>
+		<p className="description">Avoid the distress from unlawful egress<br>
 		of data.</p>
 		
-		<p>It could be a fiend<br>
+		<p className="description">It could be a fiend<br>
 		Who wants control of your machine</p>
 		
-		<p>Phishing campaigns<br>
+		<p className="description">Phishing campaigns<br>
 		Still remain</p>
 		
-		<p>The easiest way<br>
+		<p className="description">The easiest way<br>
 		To spread pain and dismay</p>
 		
-		<p>By malicious threat actors<br>
+		<p className="description">By malicious threat actors<br>
 		For a number of factors</p>
 		
-		<p>Because the human element,<br>
+		<p className="description">Because the human element,<br>
 		Without disrespect or detriment</p>
 		
-		<p>While an organisation’s greatest asset<br>
+		<p className="description">While an organisation’s greatest asset<br>
 		Is not immune to every facet</p>
 		
-		<p>Of adversary psychology<br>
+		<p className="description">Of adversary psychology<br>
 		And the cyber kill chain chronology</p>
 		
-		<p>Weaponisation, delivery, exploitation<br>
+		<p className="description">Weaponisation, delivery, exploitation<br>
 		Don’t click on the link, you might complete the installation!</p>
       </main>
 
