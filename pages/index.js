@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to CSETA!" />
+        <Header title="Welcome to CSETA UK!" />
         <p className="description">
           Stop and think, before you click that link.
         </p>
@@ -37,7 +37,7 @@ export default function Home() {
 		Of adversary psychology and the cyber kill chain chronology.
 		</p>
 		<p className="description">
-		Weaponisation, delivery, exploitation, don’t click on the link, you might complete the installation!
+		Weaponisation, delivery, exploitation, don’t click on that link, you might complete the installation!
 		</p>
       </main>
 
