@@ -15,6 +15,9 @@ export default function Home() {
         <p className="description">
           Stop and think, before you click that link.
         </p>
+		<p className="description">
+          Avoid the distress from unlawful egress, of data
+        </p>
       </main>
 
       <Footer />
