@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to CSETA!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Stop and think, before you click that link.
         </p>
       </main>
 
