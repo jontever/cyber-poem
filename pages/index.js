@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to CSETA UK!" />
+        <Header title="Social Engineering" />
         <p className="description">
           Stop and think, before you click that link.
         </p>
