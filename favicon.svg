@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-  <!-- Dark background matching --bg: #080d1a -->
+  <!-- Dark background matching bg: #080d1a -->
   <rect width="32" height="32" rx="4" fill="#080d1a"/>
 
   <!-- Subtle grid lines -->
